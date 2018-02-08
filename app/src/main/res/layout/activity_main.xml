@@ -12,7 +12,7 @@
     tools:context="diabla.org.diabla.MainActivity">
 
     <TextView
-        android:text="Introduce un mensaje"
+        android:text="Bienvenido"
         android:textSize=""
         android:gravity="center"
         android:layout_width="match_parent"
