@@ -13,7 +13,7 @@
 
     <TextView
         android:text="Bienvenido"
-        android:textSize=""
+        android:textSize="40dp"
         android:gravity="center"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
